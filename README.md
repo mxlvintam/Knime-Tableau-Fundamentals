@@ -1,7 +1,7 @@
 # Background
 School group project for "SkyWings Airline" to develop sentiment analysis and present solutions for data driven decision making. 
 
-### Questions I wanted to answer were:
+### Questions we wanted to answer were:
 1. What was not working well for the airline? 
 2. How was the sales pattern over the past 2 years? 
 3. What aspect of the airline could be improve?
