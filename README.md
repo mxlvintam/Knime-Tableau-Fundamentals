@@ -21,7 +21,7 @@ School group project for "SkyWings Airline" to develop sentiment analysis and pr
 8. Add the "Tag Cloud (Javascript)" node to create the word cloud.
 
 # Dashboarding & Storytelling
-1. With the exported XLSX file from KNIME, import the dataset into Tableau. Import the relevant transactions. 
+1. With the exported XLSX file from KNIME, import the dataset into Tableau. Import the relevant transactions (dataset was provided during the course). 
 2. Create a dashboard by putting together multiple charts that are related. Make sure it is well-structured with user interactivity, and appropriate colours to allow for easy interpretation. 
 3. Lastly, propose solutions to address identified issues with visuals to support recommendations. 
 
