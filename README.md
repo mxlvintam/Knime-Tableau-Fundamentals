@@ -12,7 +12,7 @@ School group project for "SkyWings Airline" to develop sentiment analysis and pr
 
 # Data Cleaning & Transformation
 1. Start with "Excel Reader" node to import the data (you may use "CSV Reader" if your file is a CSV) and convert the strings to document with "Strings to Document" node. 
-2. Remove duplicates, puctuation, numbers, stop words.
+2. Remove duplicates, punctuation, numbers,and  stop words.
 3. Convert to lower case and words to root with the "Case Converter" and "Kuhlen Stemmer" nodes. 
 4. Using "Dictionary Tagger" node, perform tagging with [MPQA Opinion Corpus](https://mpqa.cs.pitt.edu/corpora/mpqa_corpus/) and "Document Viewer" to ensure that you are able to see sentiment tags.
 5. Add "Bag of Words Creator" node to extract all the words and "TF" node to count the frequency of each word. 
@@ -33,13 +33,13 @@ School group project for "SkyWings Airline" to develop sentiment analysis and pr
 
 ### Trends
 - Bookings per month were **decreasing from January 2024**.
-- Returning customers are **84%** of the airline's customers with low recency and high frequency. 
-- Total price paid regardless of using promo codes were similar, suggesting ineffient use of promotions. 
-- Returning customers are **not aware or do not use** promo codes despite high frequency. 
+- **84%** of customers are returning customers. Most with low recency and high frequency. 
+- Total price paid regardless of using promo codes was similar, suggesting inefficient use of promotions. 
+- Returning customers are **not aware of or do not use** promo codes despite high frequency. 
 
 ### Recommendations
 - SOP reviews, customer feedback reviews, and refresher training to improve customer satisfaction and brand image.
-- Make use of historical booking data to implement promotional code during non-peak seasons with meaningful discounts and marketing campaigns. 
+- Make use of historical booking data to implement promotional codes during non-peak seasons with meaningful discounts and marketing campaigns. 
 
 # Closing Thoughts
-Throughout this module and project, I manage to gain some experience in using data to drive decision making. Being a strong believer of data, this project allows me to gain better understanding of how data should be presented. 
+Throughout this module and project, I managed to gain some experience in using data to drive decision making. Being a strong believer in data, this project allows me to gain better understanding of how data should be presented. 
